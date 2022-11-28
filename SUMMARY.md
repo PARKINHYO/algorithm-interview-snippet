@@ -7,7 +7,7 @@
   * [Q03. 로그파일 재정렬](String_Manipulation/3.md)
   * [Q04. 가장 흔한 단어](String_Manipulation/4.md)
   * [Q05. 그룹 애너그램](String_Manipulation/5.md)
-  * [Q06. 가장 긴 팰린드롬 부분 문자열](String_Manipulation/6.md)
+  * [Q06. 가장 긴 팰린드롬 부분 문자열(⭐️)](String_Manipulation/6.md)
 * [7장 배열](List)
   * [Q07. 두수의 합](List/7.md)
   * [Q08. 빗물 트래핑](List/8.md)
