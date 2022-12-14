@@ -41,7 +41,7 @@
 * [12장 그래프](Graph)
   * [Q32. 섬의 개수](Graph/32.md)
   * [Q33. 전화 번호 문자 조합](Graph/33.md)
-  * [Q34. 순열](Graph/34.md)
+  * [Q34. 순열(⭐️)](Graph/34.md)
   * [Q35. 조합](Graph/35.md)
   * [Q36. 조합의 합](Graph/36.md)
   * [Q37. 부분 집합](Graph/37.md)
