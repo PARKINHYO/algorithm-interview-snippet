@@ -26,7 +26,7 @@
 * [9장 스택, 큐](Stack_Queue)
   * [Q20. 유효한 괄호](Stack_Queue/20.md)
   * [Q21. 중복 문자 제거(⭐️⭐️)](Stack_Queue/21.md)
-  * [Q22. 일일 온도(⭐️⭐️)](Stack_Queue/22.md)
+  * [Q22. 일일 온도(⭐️⭐️⭐️)](Stack_Queue/22.md)
   * [Q23. 큐를 이용한 스택 구현](Stack_Queue/23.md)
   * [Q24. 스택을 이용한 큐 구현](Stack_Queue/24.md)
   * [Q25. 원형 큐 디자인](Stack_Queue/25.md)
