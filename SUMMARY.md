@@ -46,7 +46,7 @@
   * [Q36. 조합의 합(⭐️)](Graph/36.md)
   * [Q37. 부분 집합](Graph/37.md)
   * [Q38. 일정 재구성(⭐️⭐️⭐️)](Graph/38.md)
-  * [Q39. 코스 스케줄(⭐️⭐️)](Graph/39.md)
+  * [Q39. 코스 스케줄(⭐️⭐️⭐️)](Graph/39.md)
 * [13장 최단 경로 문제](Shortest_Path_Problem)
   * [Q40. 네트워크 딜레이 타임](Shortest_Path_Problem/40.md)
   * [Q41. K 경유지 내 가장 저렴한 항공권](Shortest_Path_Problem/41.md)
