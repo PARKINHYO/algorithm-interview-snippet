@@ -91,7 +91,7 @@
   * [Q74. 1비트의 개수](Bit/74.md)
 * [20장 슬라이딩 윈도우](Sliding_Window)
   * [Q75. 최대 슬라이딩 윈도우(⭐️)](Sliding_Window/75.md)
-  * [Q76. 부분 문자열이 포함된 최소 윈도우](Sliding_Window/76.md)
+  * [Q76. 부분 문자열이 포함된 최소 윈도우(⭐️)](Sliding_Window/76.md)
   * [Q77. 가장 긴 반복 문자 대체](Sliding_Window/77.md)
 * [21장 그리디 알고리즘](Greedy)
   * [Q78. 주식을 사고팔기 가장 좋은 시점Ⅱ](Greedy/78.md)
