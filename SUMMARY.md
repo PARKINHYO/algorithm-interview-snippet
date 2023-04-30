@@ -96,7 +96,7 @@
 * [21장 그리디 알고리즘](Greedy)
   * [Q78. 주식을 사고팔기 가장 좋은 시점Ⅱ(⭐️)](Greedy/78.md)
   * [Q79. 키에 따른 대기열 재구성(⭐️)](Greedy/79.md)
-  * [Q80. 태스크 스케줄러](Greedy/80.md)
+  * [Q80. 태스크 스케줄러(⭐️)](Greedy/80.md)
   * [Q81. 주유소](Greedy/81.md)
   * [Q82. 쿠키 부여](Greedy/82.md)
 * [22장 분할 정복](Divided_And_Conquer)
