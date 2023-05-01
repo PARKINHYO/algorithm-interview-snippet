@@ -100,12 +100,10 @@
   * [Q81. 주유소(⭐️)](Greedy/81.md)
   * [Q82. 쿠키 부여](Greedy/82.md)
 * [22장 분할 정복(✅)](Divided_And_Conquer)
-  * [Q83. 과반수 엘리먼트](Divided_And_Conquer/83.md)
+  * [Q83. 과반수 엘리먼트(⭐️)](Divided_And_Conquer/83.md)
   * [Q84. 괄호를 삽입하는 여러 가지 방법](Divided_And_Conquer/84.md)
 * [23장 다이나믹 프로그래밍(✅)](Dynamic_Programming)
   * [Q85. 피보나치 수](Dynamic_Programming/85.md)
   * [Q86. 최대 서브 배열](Dynamic_Programming/86.md)
   * [Q87. 계단 오르기](Dynamic_Programming/87.md)
   * [Q88. 집 도둑](Dynamic_Programming/88.md)
-
-
